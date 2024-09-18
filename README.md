@@ -1,2 +1,5 @@
 # Entornos
-Resolución Práctica 1 Entornos Gráficos 2024
+Resolución Práctica 1 
+           Práctica 2
+           Práctica Bootstrap
+Entornos Gráficos 2024
