@@ -1,0 +1,20 @@
+-- Crear la base de datos
+CREATE DATABASE Compras;
+
+-- Seleccionar la base de datos
+USE Compras;
+
+-- Crear la tabla 'catálogo'
+CREATE TABLE catálogo (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    producto VARCHAR(100) NOT NULL,
+    precio DECIMAL(9,2) NOT NULL
+);
+
+-- Insertar algunos productos de ejemplo
+INSERT INTO catálogo (producto, precio) VALUES
+('Camiseta', 19.99),
+('Pantalón', 39.95),
+('Zapatos', 59.99),
+('Gorra', 14.99),
+('Chaqueta', 49.99);
