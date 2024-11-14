@@ -32,7 +32,7 @@ if(isset($_POST["estilo"])){
             echo '<link rel="stylesheet" type="text/css" href="'.$estilo.'.css">';
         };
         ?>
-        <title>Práctica 5 Ejercicio 3</title>
+        <title>Práctica 7 Ejercicio 1</title>
     </head>
     <body>
 
