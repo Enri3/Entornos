@@ -20,9 +20,8 @@ if (isset($_SESSION['user']) && isset($_SESSION['contra'])) {
 </head>
 
 <body>
-    <h2>Bienvenido, <?php echo htmlspecialchars($username); ?></h2>
-    <p>Su clave es: <?php echo htmlspecialchars($password); ?></p>
-    <p><a href="logout.php">Cerrar sesión</a></p>
+    <h2>Bienvenido, <?php echo ($username); ?></h2>
+    <p>Su clave es: <?php echo ($password); ?></p>
 </body>
 
 </html>
