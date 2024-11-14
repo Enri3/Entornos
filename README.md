@@ -1,11 +1,11 @@
 ### Entornos Gráficos 2024
 # Resolución 
- - Práctica 1 
- - Práctica 2.
+ - Práctica 1 HTML.
+ - Práctica 2 CSS.
  - Práctica 4 PHP.
- - Práctica 5 PHP.
- - Práctica 6 PHP.
- - Práctica 7 PHP.
+ - Práctica 5 PHP mail.
+ - Práctica 6 PHP y SQL.
+ - Práctica 7 PHP cookies y sesiones.
  - Práctica 9 Bootstrap.
 
 # Integrantes
