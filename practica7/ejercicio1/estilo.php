@@ -10,6 +10,7 @@ if(isset($_POST["estilo"])){
         $estilo = $_COOKIE["estilo"];
     }
 }
-
-
 ?>
+
+
+
