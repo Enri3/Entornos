@@ -1,5 +1,6 @@
 ### Entornos Gráficos 2024
-# Resolución Práctica 1 
+# Resolución 
+ - Práctica 1 
  - Práctica 2.
  - Práctica 4 PHP.
  - Práctica 5 PHP.
