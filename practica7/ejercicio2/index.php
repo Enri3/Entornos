@@ -29,7 +29,7 @@ mostrar el número de veces que se ha visitado dicha página.
     <body>
 
     <?php
-        if ($visitas >= 1) {
+        if(isset($_COOKIE['visitas'])) {
             echo "Esta es tu visita número " .$_COOKIE['visitas'];
         }
                 
